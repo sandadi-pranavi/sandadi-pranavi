@@ -103,13 +103,13 @@ Strong analytical skills backed by a <b>9.1 CGPA</b> and real-world internship e
 ### 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/sandadi-pranavi">
+  <a href="https://www.linkedin.com/in/sandadi-pranavi-7378532b6/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-2F80ED?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://kaggle.com/sandadipranavi">
+  <a href="https://kaggle.com/sandadipranavi" target="_blank">
     <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" />
   </a>
-  <a href="https://medium.com/@sandadi_pranavi">
+  <a href="https://medium.com/@sandadi_pranavi" target="_blank">
     <img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" />
   </a>
   <a href="mailto:sandadipranavi2004@gmail.com">
